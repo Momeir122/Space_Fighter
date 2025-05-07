@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "graphics.h": "c",
+        "character.h": "c",
+        "network.h": "c",
+        "stdlib.h": "c",
+        "projectile.h": "c",
+        "ui.h": "c"
+    }
+}
