@@ -1,2 +1,1 @@
-# Space_Fighter
-Space shooter game inC with csfml.
+To play the game launch out.exe in the bin folder.
